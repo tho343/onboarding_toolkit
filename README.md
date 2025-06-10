@@ -33,4 +33,4 @@ python3 gui_onboarding.py
 
 ```
 
-![GUI screenshot] (/screenshot.png)
+![GUI Screenshot](screenshot.png)

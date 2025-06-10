@@ -26,12 +26,11 @@ This project simulates an automated onboarding workflow used by IT support teams
 
 ### 📦 1. Clone the Repository
 
-````bash
+```bash
 git clone https://github.com/yourusername/onboarding_toolkit.git
 cd onboarding_toolkit
-
-### 2. Run the script
-```bash
 python3 gui_onboarding.py
+
+```
+
 ![GUI screenshot] (./screenshot.png)
-````

@@ -24,8 +24,6 @@ This project simulates an automated onboarding workflow used by IT support teams
 
 ## 🚀 How to Run
 
-### 📦 1. Clone the Repository
-
 ```bash
 git clone https://github.com/yourusername/onboarding_toolkit.git
 cd onboarding_toolkit
